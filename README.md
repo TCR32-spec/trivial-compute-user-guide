@@ -54,7 +54,7 @@ Before you begin, make sure you have access to a computer with the game installe
    ```bash
    question,answer,category
     ```
-5. **View and Edit Questions**: Click the "View All Questions" button at the top of the question creation screen to see a list of all questions by category. You can select a question to edit its content.
+5. **View and Edit Questions**: Click the "View All Questions" button at the top of the question creation screen to see a list of all questions by category. You can select a question to edit its text content.
 
 ### Creating a Game
 
