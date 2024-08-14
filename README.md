@@ -11,6 +11,7 @@ Welcome to Trivial Compute! This guide will help you understand how the game wor
    - [Logging In or Creating an Account](#logging-in-or-creating-an-account)
    - [Creating Categories](#creating-categories)
    - [Creating Questions](#creating-questions)
+   - [Exporting Questions](#exporting-questions)
    - [Creating a Game](#creating-a-game)
 3. [Gameplay](#gameplay)
    - [Rolling the Dice](#rolling-the-dice)
@@ -49,6 +50,7 @@ Before you begin, make sure you have access to a computer with the game installe
    - **Question**: Type in the trivia question.
    - **Answer**: Enter the correct answer.
    - **Category**: Choose a category from the drop-down menu to save the question under.
+4. **Adding Media (Optional)**: Click the "File Upload" button, and navigate to your supported video or image file.
 3. **Save the Question**: Click the "Save Question" button to save your entry.
 4. **Upload Questions via CSV**: Alternatively, you can upload a CSV file containing multiple questions by clicking the "Upload CSV" button. CSV file must begin with a header and follow the format below:
    ```
@@ -56,7 +58,12 @@ Before you begin, make sure you have access to a computer with the game installe
    How many letters are in the English alphabet?,26,Basic English,
    What is 32 divided by 8?,4,Basic Math
     ```
-5. **View and Edit Questions**: Click the "View All Questions" button at the top of the question creation screen to see a list of all questions by category. You can select a question to edit its text content.
+5. **View and Edit Questions**: Click the "View All Questions" button at the top of the question creation screen to see a list of all questions by category. You can then choose a category select a question to edit its text content.
+
+### Exporting Questions
+1. **Access the "View All Questions" Screen**: From the "Question Creation" screen, select "View All Questions," then select "Export".
+2. **Choose Categories**:
+
 
 ### Creating a Game
 
