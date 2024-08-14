@@ -51,7 +51,7 @@ Before you begin, make sure you have access to a computer with the game installe
    - **Category**: Choose a category from the drop-down menu to save the question under.
 3. **Save the Question**: Click the "Save Question" button to save your entry.
 4. **Upload Questions via CSV**: Alternatively, you can upload a CSV file containing multiple questions by clicking the "Upload CSV" button. CSV file must be in the following format:
-   ```bash
+   ```
    Question,Answer,Category
    How many letters are in the English alphabet?,26,Basic English
     ```
