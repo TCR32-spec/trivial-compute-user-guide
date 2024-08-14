@@ -53,7 +53,8 @@ Before you begin, make sure you have access to a computer with the game installe
 4. **Upload Questions via CSV**: Alternatively, you can upload a CSV file containing multiple questions by clicking the "Upload CSV" button. CSV file must begin with a header and follow the format below:
    ```
    Question,Answer,Category
-   How many letters are in the English alphabet?,26,Basic English
+   How many letters are in the English alphabet?,26,Basic English,
+   What is 32 divided by 8?,4,Basic Math
     ```
 5. **View and Edit Questions**: Click the "View All Questions" button at the top of the question creation screen to see a list of all questions by category. You can select a question to edit its text content.
 
