@@ -62,7 +62,7 @@ Before you begin, make sure you have access to a computer with the game installe
 
 ### Exporting Questions
 1. **Access the "View All Questions" Screen**: From the "Question Creation" screen, select "View All Questions," and choose a category.
-2. **Export the Questions**: Clicking the "Export Questions" button on the bottom right will export all the questions for that category to CSV.
+2. **Export the Questions**: Clicking the "Export Questions" button on the bottom right will export all the questions for that category to a CSV in the tc_client folder.
 
 
 ### Creating a Game
