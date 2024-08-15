@@ -61,8 +61,8 @@ Before you begin, make sure you have access to a computer with the game installe
 5. **View and Edit Questions**: Click the "View All Questions" button at the top of the question creation screen to see a list of all questions by category. You can then choose a category select a question to edit its text content.
 
 ### Exporting Questions
-1. **Access the "View All Questions" Screen**: From the "Question Creation" screen, select "View All Questions," then select "Export".
-2. **Choose Categories**:
+1. **Access the "View All Questions" Screen**: From the "Question Creation" screen, select "View All Questions," and choose a category.
+2. **Export the Questions**: Clicking the "Export Questions" button on the bottom right will export all the questions for that category to CSV.
 
 
 ### Creating a Game
